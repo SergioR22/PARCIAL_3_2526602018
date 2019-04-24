@@ -1,0 +1,12 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\bin\Debug\Parcial3_2526602018.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\bin\Debug\Parcial3_2526602018.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\bin\Debug\Parcial3_2526602018.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\obj\Debug\Parcial3_2526602018.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\obj\Debug\Parcial3_2526602018.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\obj\Debug\Parcial3_2526602018.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\obj\Debug\Parcial3_2526602018.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\obj\Debug\Parcial3_2526602018.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\obj\Debug\Parcial3_2526602018.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\obj\Debug\Parcial3_2526602018.DatosDelEstudiante.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\obj\Debug\Parcial3_2526602018.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial3_2526602018\Parcial3_2526602018\obj\Debug\Parcial3_2526602018.CalculoPorcentaje.resources
